@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>Pizza Sales Report</h1>
-    <img src="image.png" alt="">
+    <img src="image.png" alt="home">
     <img src="image copy.png" alt="">
     
 </body>
